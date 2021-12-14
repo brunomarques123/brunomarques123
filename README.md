@@ -12,22 +12,37 @@
 - Serei um eterno Estudante e entusiasta de novas tecnologias e métodos de planejamento, 
 controle e execução na área de Desenvolvimento de Softwares.
 
-Principais habilidades difíceis:
 
-![csharp_original_logo_icon_146578](https://user-images.githubusercontent.com/83646647/145910075-989b93a9-1846-4a73-bab0-b9bb87b46b5d.jpg)   ![icons8-logo-mysql-50](https://user-images.githubusercontent.com/83646647/145910652-f76b4cd1-7d0e-42ec-b786-ce1cbbfb3a1b.png)   ![icons8-sql-48](https://user-images.githubusercontent.com/83646647/145910575-c8727289-62a6-4975-88a8-7316e7e6cd15.png)   ![icons8-microsoft-sql-server-48](https://user-images.githubusercontent.com/83646647/145910398-ef3cfefe-0a2b-43cf-92af-85c679a1ce91.png)
+Principais habilidades difíceis:
+<div style="display: inline_block">
+  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img align="center" alt="Rafa-Js" height="40" width="50"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /> 
+   <img align="center" alt="Rafa-Js" height="40" width="50"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+   <img align="center" alt="Rafa-Js" height="50" width="60"<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
+  
+</div>
 
 
 
 Principais habilidades soft:
-
+ 
 ![image](https://user-images.githubusercontent.com/83646647/145912309-01bc78fb-1eb2-4baa-8d6e-d4bc7267de9d.png) ![image](https://user-images.githubusercontent.com/83646647/145912193-e3635fbe-8840-493f-bf0b-a778c6d6e059.png) ![image](https://user-images.githubusercontent.com/83646647/145912421-1b488ecf-2aba-4b18-bae5-338631298db6.png)
 
 
 
 Ferramentas:
+<div style="display: inline_block">
+ <img align="center" alt="Rafa-Js" height="40" width="50"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="center" alt="Rafa-Js" height="40" width="50"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+   <img align="center" alt="Rafa-Js" height="40" width="50"<img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /> 
+ 
+</div>
+<br>
+<br>
 
-![image](https://user-images.githubusercontent.com/83646647/145913486-231f56b6-0917-4678-a069-96f24a2496c7.png) ![image](https://user-images.githubusercontent.com/83646647/145913319-99115393-4126-4363-891b-acac4024dc79.png)
-![image](https://user-images.githubusercontent.com/83646647/145913405-1ea13297-ef86-401b-ac02-3b5513c3561d.png) ![image](https://user-images.githubusercontent.com/83646647/145913836-1b51d4fa-8d64-43f6-bb67-7a9bc0edd70f.png)
 
 
 <div align="center">
@@ -37,11 +52,24 @@ Ferramentas:
 </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   
-  <img align="right"  height="150" style="border-radius:50px;" 
-</div>
-
-
-
+  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Rafa-Js" height="40" width="50"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /> 
+   <img align="center" alt="Rafa-Js" height="40" width="50"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+   <img align="center" alt="Rafa-Js" height="50" width="60"<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   <img align="center" alt="Rafa-Js" height="40" width="50"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+   <img align="center" alt="Rafa-Js" height="40" width="50"<img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />  
+   <img align="center" alt="Rafa-Js" height="40" width="50"<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+    <img align="center" alt="Rafa-Js" height="40" width="50"<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+ </div>
+ 
+  ##
+ 
+<div> 
+ 
+<a href="https://www.linkedin.com/in/bruno-marques-327523119" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+<div>
