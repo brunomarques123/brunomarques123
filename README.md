@@ -1,6 +1,6 @@
 ### OLA, SOU O BRUNO MARQUES👋
 - Sobre Mim:
-- Tenho 37 anos, Sou Engenheiro Civil de Formação com vários anos dedicado a área, porem sempre
+- Tenho 36 anos, Sou Engenheiro Civil de Formação com vários anos dedicado a área, porem sempre
  gostei da tecnologia isso me levou a aprofundar o meu conhecimento fazendo 
  uma pós em Analise de Sistemas e entrando de vez no ramo da tecnologia.
 
