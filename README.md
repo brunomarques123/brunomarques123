@@ -1,9 +1,17 @@
 ### OLA, SOU O BRUNO MARQUES👋
 🌟 Sobre Mim
-👨‍🎓 Tenho 38 anos e sou Engenheiro Civil de formação, com muitos anos de experiência na área. A paixão por tecnologia sempre me acompanhou, e isso me motivou a uma transição para a área de TI, onde conclui uma graduação em Análise e Desenvolvimento de Sistemas e finalizei uma pós-graduação em Desenvolvimento com C#. Estou sempre em busca de conhecimento e evolução!
+👨‍🎓 Tenho 38 anos e sou Engenheiro Civil de formação, com muitos anos de experiência na área.
+A paixão por tecnologia sempre me acompanhou, e isso me motivou a uma transição para a área de TI, 
+onde conclui uma graduação em Análise e Desenvolvimento de Sistemas e finalizei uma pós-graduação em Desenvolvimento com C#. Estou sempre em busca de conhecimento e evolução!
 
 🚀 Qualidades que me definem:
-💡 Protagonismo | 🧠 Aprendizado Contínuo | 🤝 Liderança | ⚡ Proatividade | 🗣 Comunicação | 🎯 Constância | 🔥 Persistência
+💡 Protagonismo |
+🧠 Aprendizado Contínuo |
+🤝 Liderança |
+⚡ Proatividade |
+🗣 Comunicação |
+🎯 Constância |
+🔥 Persistência
 
 🎯 Visão
 Sou um eterno estudante e entusiasta de novas tecnologias, buscando constantemente métodos inovadores para planejar, controlar e executar projetos na área de Desenvolvimento de Software. 📈
